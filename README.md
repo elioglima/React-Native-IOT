@@ -17,6 +17,29 @@
     react-native upgrade
     react-native run-android
 
+# Problemas de instalação e Soluções
+
+    reopen android studio as admin. build the gradle. if no issue, proceed on
+    access the android folder of your app. i.e c:\folder\app\android
+    type in gradlew clean
+    run react-native run-android
+
+    macos
+    * criar em /android/local.properties
+    * /Users/elio.lima/Library/Android/sdk
+
+    1-> Go to your React-native Project -> Android
+    2-> Create a file local.properties
+    3-> Open the file
+    4-> paste your Android SDK path like below
+
+    5-> in Windows sdk.dir = C:\\Users\\USERNAME\\AppData\\Local\\Android\\sdk
+    5-> in macOS sdk.dir = /Users/USERNAME/Library/Android/sdk
+    5-> in linux sdk.dir = /home/USERNAME/Android/Sdk
+    obs: Replace USERNAME with your user name
+
+    7-> Now, Run the react-native run-android in your terminal.
+
 # Sobre o IOT
 
     1) git clone https://github.com/elioglima/IOT.git
