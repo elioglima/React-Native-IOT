@@ -4,6 +4,9 @@
 
     Este projeto é destinado ao aprendiasado das funcionabilidades disponiveis para visual do react native.
 
+    pakages: REDUX, REDUX-SAGA, REDUCER
+    sistemas: WINDOWS 10, MAC-OS
+
     Pontos abordado:
 
 # Ambiente de execução:
