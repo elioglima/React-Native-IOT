@@ -2,7 +2,7 @@
 
 ### Internet of Things - Light Off/On
 
-    Este projeto é destinado ao aprendiasado das funcionabilidades disponiveis para visual do react native.
+    Este projeto é destinado ao aprendiasado das funcionabilidades disponiveis sobre o react-native.
 
     pakages: REDUX, REDUX-SAGA, REDUCER
     sistemas: WINDOWS 10, MAC-OS
