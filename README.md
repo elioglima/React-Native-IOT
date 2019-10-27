@@ -20,6 +20,11 @@
     react-native upgrade
     react-native run-android
 
+    * build para android
+        1) cd android
+        2) ./gradlew assembleRelease
+        3) dentro da pasta /android/ outputs/apk/release/app-realease.apk
+
 # Problemas de instalação e Soluções
 
     reopen android studio as admin. build the gradle. if no issue, proceed on
